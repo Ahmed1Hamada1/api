@@ -1,0 +1,362 @@
+{
+  "users": [
+    {
+      "id": "5d13",
+      "firstName": "Ahmed",
+      "lastName": "Hamada",
+      "email": "hamada123khedr@gmail.com",
+      "mobile": "01070258826",
+      "password": "s"
+    },
+    {
+      "id": "a77b",
+      "fullName": "ahmed",
+      "company": "Data Entr XYZ Company",
+      "email": "demo@evershop.io",
+      "password": "d",
+      "mobile": "01070258826"
+    },
+    {
+      "id": "5f8f",
+      "fullName": "Ahmed Hamada",
+      "company": "vrCoding",
+      "email": "hamada123khedr@gmail.com",
+      "password": "a",
+      "mobile": "01008659909",
+      "token": "abc123xyz789"
+    },
+    {
+      "id": "8338",
+      "fullName": "Ahmed Hamada",
+      "company": "comVr",
+      "email": "Ahmed@gmail.com",
+      "password": "f",
+      "mobile": "45616502"
+    },
+    {
+      "id": "c359",
+      "fullName": "momen",
+      "company": "qq",
+      "email": "demo@evershop.io",
+      "password": "mm",
+      "mobile": "1000000"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "SOCKET WELD FLANGE, PIPE: TYPE RAISED FACE, SIZE 1 IN, MATERIAL CS ASTM A105, RATING 1500 LB, SCH 160S",
+      "Material": "OG-M-41516",
+      "Brand": "HAVER & BOECKER",
+      "Model": "ML100700",
+      "Unit": "Each",
+      "Condition": "Used",
+      "description": "COFFEE PREMIUM, Kopi biji arabica ciwidey honey process 150gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Proses : Honey Process, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://storage.googleapis.com/masstok/314419/284157.png",
+      "imgs": [
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png"
+      ],
+      "price": 5100,
+      "rating": 4.9,
+      "category": "Electronics",
+      "stock": 18,
+      "doucment": "data.pdf",
+      "info": [
+        {
+          "title": "SOCKET WELD FLANGE, PIPE: TYPE RAISED FACE, SIZE 1 IN, MATERIAL CS ASTM A105, RATING 1500 LB, SCH 160S",
+          "Material": "OG-M-41516"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "ARABICA WINE COFFE",
+      "description": "COFFEE PREMIUM, Kopi biji arabica Wine 100gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://storage.googleapis.com/masstok/285328/IMG_20210701_143138.jpg",
+      "imgs": [
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png"
+      ],
+      "price": 43000,
+      "rating": 4.4,
+      "category": "Electronics"
+    },
+    {
+      "id": "3",
+      "title": "ARABICA FULL WASH",
+      "description": "COFFEE PREMIUM, Kopi biji arabica Full Wash 100gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://storage.googleapis.com/masstok/284470/IMG_20210610_115314.jpg",
+      "imgs": [
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png"
+      ],
+      "price": 43000,
+      "rating": 4.7,
+      "category": "Electronics"
+    },
+    {
+      "id": "4",
+      "title": "ARABICA HONNEY",
+      "description": "COFFEE PREMIUM, Kopi biji arabica Full Wash 100gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Proses : Honey Process, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://storage.googleapis.com/masstok/322158/ezgif.com-gif-maker-2.jpg",
+      "imgs": [
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png"
+      ],
+      "price": 445200,
+      "rating": 4.5,
+      "category": "Electronics"
+    },
+    {
+      "id": "5",
+      "title": "NATURAL COFFE",
+      "description": "COFFEE PREMIUM, Kopi biji arabica 100gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+      "imgs": [
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png"
+      ],
+      "price": 43088450,
+      "rating": 5,
+      "category": "Mechanical"
+    },
+    {
+      "id": "6",
+      "title": "ARABICA HONNEY",
+      "description": "COFFEE PREMIUM, Kopi biji arabica Full Wash 100gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Proses : Honey Process, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://storage.googleapis.com/masstok/285325/IMG_20210701_132604.jpg",
+      "imgs": [
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png"
+      ],
+      "price": 8700,
+      "rating": 4.5,
+      "category": "Mechanical"
+    },
+    {
+      "id": "7",
+      "title": "NATURAL COFFE",
+      "description": "COFFEE PREMIUM, Kopi biji arabica 100gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://storage.googleapis.com/masstok/314401/862337.png",
+      "imgs": [
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png"
+      ],
+      "price": 50466000,
+      "rating": 5,
+      "category": "Electronics"
+    },
+    {
+      "id": "8",
+      "title": "ARABICA HONNEY",
+      "description": "COFFEE PREMIUM, Kopi biji arabica Full Wash 100gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Proses : Honey Process, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://storage.googleapis.com/masstok/314391/907674.png",
+      "imgs": [
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png"
+      ],
+      "price": 66000,
+      "rating": 4.5,
+      "category": "Mechanical"
+    },
+    {
+      "id": "9",
+      "title": "SOCKET WELD FLANGE, PIPE: TYPE RAISED FACE, SIZE 1 IN, MATERIAL CS ASTM A105, RATING 1500 LB, SCH 160S",
+      "Material": "OG-M-41516",
+      "Brand": "HAVER & BOECKER",
+      "Model": "ML100700",
+      "Unit": "Each",
+      "Condition": "Used",
+      "description": "COFFEE PREMIUM, Kopi biji arabica ciwidey honey process 150gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Proses : Honey Process, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://storage.googleapis.com/masstok/314419/284157.png",
+      "imgs": [
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png"
+      ],
+      "price": 5100,
+      "rating": 4.9,
+      "category": "Electronics",
+      "stock": 10,
+      "doucment": "data.pdf",
+      "info": [
+        {
+          "title": "SOCKET WELD FLANGE, PIPE: TYPE RAISED FACE, SIZE 1 IN, MATERIAL CS ASTM A105, RATING 1500 LB, SCH 160S",
+          "Material": "OG-M-41516"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "SOCKET WELD FLANGE, PIPE: TYPE RAISED FACE, SIZE 1 IN, MATERIAL CS ASTM A105, RATING 1500 LB, SCH 160S",
+      "Material": "OG-M-41516",
+      "Brand": "HAVER & BOECKER",
+      "Model": "ML100700",
+      "Unit": "Each",
+      "Condition": "Used",
+      "description": "COFFEE PREMIUM, Kopi biji arabica ciwidey honey process 150gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Proses : Honey Process, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://storage.googleapis.com/masstok/314419/284157.png",
+      "imgs": [
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png"
+      ],
+      "price": 5100,
+      "rating": 4.9,
+      "category": "Electronics",
+      "stock": 1,
+      "doucment": "data.pdf",
+      "info": [
+        {
+          "title": "SOCKET WELD FLANGE, PIPE: TYPE RAISED FACE, SIZE 1 IN, MATERIAL CS ASTM A105, RATING 1500 LB, SCH 160S",
+          "Material": "OG-M-41516"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "SOCKET WELD FLANGE, PIPE: TYPE RAISED FACE, SIZE 1 IN, MATERIAL CS ASTM A105, RATING 1500 LB, SCH 160S",
+      "Material": "OG-M-41516",
+      "Brand": "HAVER & BOECKER",
+      "Model": "ML100700",
+      "Unit": "Each",
+      "Condition": "Used",
+      "description": "COFFEE PREMIUM, Kopi biji arabica ciwidey honey process 150gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Proses : Honey Process, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://storage.googleapis.com/masstok/314419/284157.png",
+      "imgs": [
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png"
+      ],
+      "price": 5100,
+      "rating": 4.9,
+      "category": "Electronics",
+      "stock": 1,
+      "doucment": "data.pdf",
+      "info": [
+        {
+          "title": "SOCKET WELD FLANGE, PIPE: TYPE RAISED FACE, SIZE 1 IN, MATERIAL CS ASTM A105, RATING 1500 LB, SCH 160S",
+          "Material": "OG-M-41516"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "SOCKET WELD FLANGE, PIPE: TYPE RAISED FACE, SIZE 1 IN, MATERIAL CS ASTM A105, RATING 1500 LB, SCH 160S",
+      "Material": "OG-M-41516",
+      "Brand": "HAVER & BOECKER",
+      "Model": "ML100700",
+      "Unit": "Each",
+      "Condition": "Used",
+      "description": "COFFEE PREMIUM, Kopi biji arabica ciwidey honey process 150gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Proses : Honey Process, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://storage.googleapis.com/masstok/314419/284157.png",
+      "imgs": [
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png"
+      ],
+      "price": 5100,
+      "rating": 4.9,
+      "category": "Electronics",
+      "stock": 1,
+      "doucment": "data.pdf",
+      "info": [
+        {
+          "title": "SOCKET WELD FLANGE, PIPE: TYPE RAISED FACE, SIZE 1 IN, MATERIAL CS ASTM A105, RATING 1500 LB, SCH 160S",
+          "Material": "OG-M-41516"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "SOCKET WELD FLANGE, PIPE: TYPE RAISED FACE, SIZE 1 IN, MATERIAL CS ASTM A105, RATING 1500 LB, SCH 160S",
+      "Material": "OG-M-41516",
+      "Brand": "HAVER & BOECKER",
+      "Model": "ML100700",
+      "Unit": "Each",
+      "Condition": "Used",
+      "description": "COFFEE PREMIUM, Kopi biji arabica ciwidey honey process 150gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Proses : Honey Process, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://storage.googleapis.com/masstok/314419/284157.png",
+      "imgs": [
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png"
+      ],
+      "price": 5100,
+      "rating": 4.9,
+      "category": "Electronics",
+      "stock": 1,
+      "doucment": "data.pdf",
+      "info": [
+        {
+          "title": "SOCKET WELD FLANGE, PIPE: TYPE RAISED FACE, SIZE 1 IN, MATERIAL CS ASTM A105, RATING 1500 LB, SCH 160S",
+          "Material": "OG-M-41516"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "SOCKET WELD FLANGE, PIPE: TYPE RAISED FACE, SIZE 1 IN, MATERIAL CS ASTM A105, RATING 1500 LB, SCH 160S",
+      "Material": "OG-M-41516",
+      "Brand": "HAVER & BOECKER",
+      "Model": "ML100700",
+      "Unit": "Each",
+      "Condition": "Used",
+      "description": "COFFEE PREMIUM, Kopi biji arabica ciwidey honey process 150gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Proses : Honey Process, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://storage.googleapis.com/masstok/314419/284157.png",
+      "imgs": [
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png",
+        "https://storage.googleapis.com/masstok/322154/ezgif.com-gif-maker-6.jpg",
+        "https://storage.googleapis.com/masstok/314419/284157.png"
+      ],
+      "price": 5100,
+      "rating": 4.9,
+      "category": "Electronics",
+      "stock": 1,
+      "doucment": "data.pdf",
+      "info": [
+        {
+          "title": "SOCKET WELD FLANGE, PIPE: TYPE RAISED FACE, SIZE 1 IN, MATERIAL CS ASTM A105, RATING 1500 LB, SCH 160S",
+          "Material": "OG-M-41516"
+        }
+      ]
+    }
+  ]
+}
